@@ -1,0 +1,43 @@
+/* 
+* Book Form - Search Bar
+*/
+#book-form {
+  margin-top: 10px;
+}
+
+/* 
+* Book List 
+*/
+
+/*
+* Book
+*/
+.book {
+  max-width: 185px;
+  border: 1px solid black;
+}
+
+.book-action-container {
+  text-align: right;
+  max-width: 90%;
+  margin: 0 auto;
+  ;
+}
+
+.book-action-delete {
+  color: red;
+}
+
+.book-image {
+  margin: 5px auto;
+}
+
+.book-text {
+  text-align: left;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.book-genre {
+  padding-bottom: 5px;
+}
